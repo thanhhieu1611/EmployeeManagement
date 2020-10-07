@@ -1,0 +1,9 @@
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+C:\Users\thanh\OneDrive - Ozarks Technical Community College\Fall 2020\CIS_151_H101_CSharp PROGRAMMING II\Projects\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormEMS.resources
